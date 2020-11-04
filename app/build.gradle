@@ -6,6 +6,16 @@ apply plugin: 'com.google.gms.google-services'
 
 
 android {
+
+    
+    signingConfigs {
+        release {
+            storeFile file(KEY_PATH)
+            storePassword KEY_PASSWORD
+            keyAlias ALIAS
+            keyPassword ALIAS_PASSWORD
+        }
+}
     compileSdkVersion versions.compileSdk
     buildToolsVersion "30.0.2"
 
