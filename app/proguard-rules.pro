@@ -16,9 +16,9 @@
 # debugging stack traces.
 -keepattributes SourceFile,LineNumberTable
 
--keep public class com.easyplex.di.*
--keep public class com.easyplex.data.*
--keep public class com.easyplex.ui.viewmodels.*
+-keep public class com.streamsaw.di.*
+-keep public class com.streamsaw.data.*
+-keep public class com.streamsaw.ui.viewmodels.*
 
 
 # If you keep the line number information, uncomment this to

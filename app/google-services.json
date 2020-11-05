@@ -1,95 +1,34 @@
 {
   "project_info": {
-    "project_number": "811080978285",
-    "firebase_url": "https://streamsaw-tv.firebaseio.com",
-    "project_id": "streamsaw-tv",
-    "storage_bucket": "streamsaw-tv.appspot.com"
+    "project_number": "352645471145",
+    "firebase_url": "https://easyplex-99aaa.firebaseio.com",
+    "project_id": "easyplex-99aaa",
+    "storage_bucket": "easyplex-99aaa.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:811080978285:android:a7a27e0a6f2b0bad999464",
+        "mobilesdk_app_id": "1:352645471145:android:acb8cff16f064d7cfbc2b8",
         "android_client_info": {
-          "package_name": "com.easyplex1"
+          "package_name": "com.streamsaw"
         }
       },
       "oauth_client": [
         {
-          "client_id": "811080978285-gplhj1387v0o2uo97m1ahu1g3t9vpld2.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.easyplex1",
-            "certificate_hash": "08dc1a75ea385a510eebf1fabb3a3f6774b25e1f"
-          }
-        },
-        {
-          "client_id": "811080978285-v2771k1noq53p3n3r5lgi5o0rp8sbv7l.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.easyplex1",
-            "certificate_hash": "70424d30ab1d19a87ccb627c2483c7547811a5d3"
-          }
-        },
-        {
-          "client_id": "811080978285-0u7j5bjd91p45dov7oktfat9peo156d8.apps.googleusercontent.com",
+          "client_id": "352645471145-gu6urdb2gj8ndamjn5iighh9om4ihmok.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC_8boBwhdcWrGRp7RB5dvmDUjICLCZdc8"
+          "current_key": "AIzaSyD4AXBI2T7PuudAt4F12saNoaC_2__4xRc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "811080978285-0u7j5bjd91p45dov7oktfat9peo156d8.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:811080978285:android:bf12e89f79601a3e999464",
-        "android_client_info": {
-          "package_name": "com.easyplex1"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "811080978285-gg636selb27br0be3qpn7qr4df352ie6.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.easyplex1",
-            "certificate_hash": "08dc1a75ea385a510eebf1fabb3a3f6774b25e1f"
-          }
-        },
-        {
-          "client_id": "811080978285-ch7id9cmrf2fentvucr17lp9iismqfu4.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.easyplex1",
-            "certificate_hash": "70424d30ab1d19a87ccb627c2483c7547811a5d3"
-          }
-        },
-        {
-          "client_id": "811080978285-0u7j5bjd91p45dov7oktfat9peo156d8.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyC_8boBwhdcWrGRp7RB5dvmDUjICLCZdc8"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "811080978285-0u7j5bjd91p45dov7oktfat9peo156d8.apps.googleusercontent.com",
+              "client_id": "352645471145-gu6urdb2gj8ndamjn5iighh9om4ihmok.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

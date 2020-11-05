@@ -31,11 +31,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.easyplex1"
+        applicationId "com.streamsaw"
         minSdkVersion 23
         targetSdkVersion versions.targetSdk
-        versionCode 3
-        versionName "1.2"
+        versionCode 102
+       versionName "10.2"
         multiDexEnabled true
 
 

@@ -14,7 +14,7 @@
 
         <variable
             name="controller"
-            type="com.easyplex.ui.player.bindings.PlayerController" />
+            type="com.streamsaw.ui.player.bindings.PlayerController" />
     </data>
 
 
@@ -26,7 +26,7 @@
 
 
 
-    <com.easyplex.ui.player.views.TubiExoPlayerView
+    <com.streamsaw.ui.player.views.TubiExoPlayerView
         android:id="@+id/tubitv_player"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
@@ -473,7 +473,7 @@
 
 
 
-            <com.easyplex.ui.player.views.SeasonsImageButton
+            <com.streamsaw.ui.player.views.SeasonsImageButton
                 android:tint="@color/white"
                 android:padding="5dp"
                 app:srcCompat="@drawable/ic_tune"
@@ -610,7 +610,7 @@
         android:layout_height="30dp">
 
 
-        <com.easyplex.ui.player.views.SeasonsImageButton
+        <com.streamsaw.ui.player.views.SeasonsImageButton
             android:tint="@color/white"
             android:padding="5dp"
             app:srcCompat="@drawable/ic_tune"
@@ -801,7 +801,7 @@
 
 
 
-            <com.easyplex.ui.player.views.SeasonsImageButton
+            <com.streamsaw.ui.player.views.SeasonsImageButton
                 android:tint="@color/white"
                 android:padding="5dp"
                 app:srcCompat="@drawable/ic_tune"
@@ -938,7 +938,7 @@
             android:layout_height="30dp">
 
 
-            <com.easyplex.ui.player.views.SeasonsImageButton
+            <com.streamsaw.ui.player.views.SeasonsImageButton
                 android:tint="@color/white"
                 android:padding="5dp"
                 app:srcCompat="@drawable/ic_tune"

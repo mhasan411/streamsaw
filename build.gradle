@@ -46,7 +46,7 @@ buildscript {
         }
     }
     dependencies {
-        classpath "com.android.tools.build:gradle:4.0.2"
+        classpath 'com.android.tools.build:gradle:4.1.0'
         classpath 'com.google.gms:google-services:4.3.4'
 
 
@@ -75,8 +75,8 @@ allprojects {
 }
 
 ext.versions2 = [
-        'api'            : 'https://stream.nulledhost.com/',
-        'api2'            : 'https://api.yobdev.live/easyplex/api/'
+        'api'            : 'https://nulledhost.com/',
+        'api2'            : 'https://nulledhost.com/'
 ]
 
 

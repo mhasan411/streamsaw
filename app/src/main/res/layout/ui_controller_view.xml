@@ -13,7 +13,7 @@
 
         <variable
             name="controller"
-            type="com.easyplex.ui.player.bindings.PlayerController" />
+            type="com.streamsaw.ui.player.bindings.PlayerController" />
     </data>
 
 
@@ -119,7 +119,7 @@
 
 
 
-            <com.easyplex.ui.player.views.SubstitleImageButton
+            <com.streamsaw.ui.player.views.SubstitleImageButton
                 android:id="@+id/view_tubi_controller_subtitles_ib"
                 android:layout_width="31dp"
                 android:layout_height="31dp"
@@ -256,7 +256,7 @@
 
 
 
-            <com.easyplex.ui.player.views.PlayStateImageButton
+            <com.streamsaw.ui.player.views.PlayStateImageButton
                 android:id="@+id/view_tubi_controller_play_toggle_ib"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
@@ -336,7 +336,7 @@
 
                 >
 
-                <com.easyplex.ui.player.views.AddToMyListmageButton
+                <com.streamsaw.ui.player.views.AddToMyListmageButton
                     android:layout_width="25dp"
                     android:layout_height="25dp"
                     android:layout_marginTop="12dp"

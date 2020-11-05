@@ -1,0 +1,3 @@
+# ninja log v5
+0	684	626310896	CMakeFiles/native-lib.dir/src/main/api/api.cpp.o	d3f162c5b06c381d
+686	884	626310896	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so	6611cfaa3e9ec9e3

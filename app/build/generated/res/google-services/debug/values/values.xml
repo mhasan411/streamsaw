@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">352645471145-gu6urdb2gj8ndamjn5iighh9om4ihmok.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://easyplex-99aaa.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">352645471145</string>
+    <string name="google_api_key" translatable="false">AIzaSyD4AXBI2T7PuudAt4F12saNoaC_2__4xRc</string>
+    <string name="google_app_id" translatable="false">1:352645471145:android:acb8cff16f064d7cfbc2b8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD4AXBI2T7PuudAt4F12saNoaC_2__4xRc</string>
+    <string name="google_storage_bucket" translatable="false">easyplex-99aaa.appspot.com</string>
+    <string name="project_id" translatable="false">easyplex-99aaa</string>
+</resources>

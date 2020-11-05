@@ -1,0 +1,13 @@
+#Thu Nov 05 21:01:33 UTC 2020
+path.3=classes4.dex
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=C\:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes4.dex
+base.2=C\:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes3.dex
+base.1=C\:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes2.dex
+base.0=C\:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex

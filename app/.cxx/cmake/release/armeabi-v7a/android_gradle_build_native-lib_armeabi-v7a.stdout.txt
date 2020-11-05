@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Administrator\Downloads\EasyPlex1.2\AndroidCode\EasyPlex1.2\EasyPlexClean\app\.cxx\cmake\release\armeabi-v7a'
+ninja: no work to do.

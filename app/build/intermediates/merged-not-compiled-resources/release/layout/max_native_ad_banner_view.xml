@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/max_native_banner_template"
+    android:layout_width="320dp"
+    android:layout_height="50dp">
+
+    <ImageView
+        android:id="@+id/native_icon_image_view"
+        style="@style/SmallIconImageView"
+        tools:ignore="ContentDescription" />
+
+    <LinearLayout
+        android:id="@+id/native_ad_text_linear_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginHorizontal="4dp"
+        android:layout_toEndOf="@id/native_icon_image_view"
+        android:layout_toRightOf="@id/native_icon_image_view"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/native_title_text_view"
+            style="@style/com.applovin.mediation.nativeAds.MaxNativeAdView.SmallTitleTextView"
+            android:layout_marginBottom="2dp"
+            tools:text="TITLE_TEXT_VIEW" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView style="@style/com.applovin.mediation.nativeAds.MaxNativeAdView.SmallAdBadgeTextView" />
+
+            <TextView
+                android:id="@+id/native_body_text_view"
+                style="@style/com.applovin.mediation.nativeAds.MaxNativeAdView.SmallBodyTextView"
+                tools:text="BODY_TEXT_VIEW" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

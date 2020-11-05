@@ -379,7 +379,7 @@
             app:srcCompat="@drawable/ic_report"
             android:contentDescription="@string/image" />
 
-        <com.easyplex.util.WishListIconView
+        <com.streamsaw.util.WishListIconView
             android:id="@+id/favoriteIcon"
             android:layout_width="60dp"
             android:layout_height="60dp"

@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\row_player_movies_ended.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\row_player_movies_ended.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_genre.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\item_genre.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\row_player_movies_list.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\row_player_movies_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\registration_sucess.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\registration_sucess.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\browse_fragment.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\browse_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_upcoming.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\fragment_upcoming.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\row_item_featured.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\row_item_featured.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_favourite_movies.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\fragment_favourite_movies.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\list_item_download.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\list_item_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_show_streaming.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\item_show_streaming.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\row_seasons.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\row_seasons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_anime.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\item_anime.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\ui_controller_view.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\ui_controller_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\row_item_featured_streaming.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\row_item_featured_streaming.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\dialog_about_no_stream.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\dialog_about_no_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_history.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\row_player_livetv.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\row_player_livetv.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\view_tubi_radio_button.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\view_tubi_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_relateds.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\item_relateds.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\dialog_about_no_stream_episode.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\dialog_about_no_stream_episode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\row_player_episodes.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\row_player_episodes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\view_next_media_item.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\view_next_media_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\row_substitle.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\row_substitle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\serie_details.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\serie_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_streaming_genre.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\item_streaming_genre.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\dialog_about_no_download.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\dialog_about_no_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\row_item_series.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\row_item_series.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_search.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\item_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\download_activity.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\download_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_easyplex_player.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\activity_easyplex_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\upcoming_titles_overview.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\upcoming_titles_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_payment_details.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\activity_payment_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_plans.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\item_plans.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\layout_genres.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\layout_genres.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\payment_success.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\payment_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_show_stream_favorite.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\item_show_stream_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_fav.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\item_fav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_anime_detail.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\item_anime_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\list_item_cast.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\list_item_cast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_upcoming.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\item_upcoming.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_movie.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\item_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_streaming.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\fragment_streaming.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\dialog_about_no_download_episode.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\dialog_about_no_download_episode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_movie_detail.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\item_movie_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\payment_activity.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\payment_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_edit_profile.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\EasyPlex1.2\\AndroidCode\\EasyPlex1.2\\EasyPlexClean\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    }
+]
